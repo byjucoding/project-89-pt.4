@@ -1,0 +1,42 @@
+body
+
+{
+    background-image:url(math_image.jpeg);
+    background-position:center;
+    background-size:cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(235, 205, 54);
+		padding: 15px;
+		float: none;
+		border-radius: 20px;
+		font-family: sans-serif;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: Impact;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: rgb(209, 140, 94);
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	font-family: monospace;
+}
